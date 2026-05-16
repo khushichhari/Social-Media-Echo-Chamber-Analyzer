@@ -145,7 +145,7 @@ Correlation analysis showed a strong inverse relationship between repeated expos
 
 You can explore the complete notebook, code, and analysis here:
 
-- [Open the Social Media Echo Chamber Analyzer in Google Colab](YOUR_GOOGLE_COLAB_LINK_HERE)
+- [Open the Social Media Echo Chamber Analyzer in Google Colab](https://colab.research.google.com/drive/1uWtpN1ffPwSF7C5bhMpTMkMJvRqT614S?usp=sharing)
 
 ---
 
